@@ -1,0 +1,9 @@
+datasets
+pandas
+numpy
+json
+llama-cpp-python
+evaluate
+transformers
+matplotlib
+torch
