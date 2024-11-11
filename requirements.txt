@@ -7,3 +7,5 @@ evaluate
 transformers
 matplotlib
 torch
+scikit-learn
+seaborn
