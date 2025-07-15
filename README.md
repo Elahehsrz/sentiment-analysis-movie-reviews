@@ -1,4 +1,4 @@
-# Sentiment Analysis with Small Language Models
+# Sentiment Analysis with Small Language Models and Prompt Engineering
 
 ## Overview
 This project explores the performance of small language models (SLMs) in sentiment analysis of movie reviews. We compare two quantized models from the Qwen2.5 family, each with different parameter counts: 
